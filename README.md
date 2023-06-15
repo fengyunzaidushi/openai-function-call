@@ -12,7 +12,7 @@ OPENAI_API_KEY:你自己的openaikey
 http_proxy/s：你自己的代理端口
 ```
 
-#运行官方样例 example.py
+# 运行官方样例 example.py
 
 得到结果
 
